@@ -1,3 +1,4 @@
+conda update -n base conda
 dependencies:
   - python=3
   - pip:
