@@ -6,6 +6,6 @@
 
 &emsp;3.下午午休起来，很热，试了一下**IA Writer**和**Typora**都用不惯，最后用**网页版马克飞象**写了一篇日记，不知道收费不。
 
-<center>**居中还是可以的**<center>
+<center>**居中还是可以的**<\center>
   
 <center>[光纤收发器和光模块](https://www.diangon.com/m436921.html)<center>
